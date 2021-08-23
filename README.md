@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @troyhud
+- 👀 I’m interested in a lot of shit
+- 🌱 I’m currently learning not to edit README.md
+- 💞️ I’m looking to collaborate on web projects
