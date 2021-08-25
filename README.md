@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @troyhud
-- 👀 I’m interested in a lot of shit
-- 🌱 I’m currently learning not to edit README.md
+- 👀 I’m interested in a lot of stuff
+- 🌱 I’m currently learning rust rocket framework, php, REST, databases, ...
 - 💞️ I’m looking to collaborate on web projects
+- :see_no_evil: I'm probably going to learn react
