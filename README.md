@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @troyhud
-- 👀 I’m interested in a lot of stuff
-- 🌱 I’m currently learning rust rocket framework, php, REST, databases, ...
-- 💞️ I’m looking to collaborate on web projects
-- :see_no_evil: I'm probably going to learn react
+### 👋 Hi, I’m @troyhud
+- I like fishes and giraffes
+- My fav language is Java, fuck you.
+- Currently working on a dozen of projects
+- 😩 React Native man, I just have to.
